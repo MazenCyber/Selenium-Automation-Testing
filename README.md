@@ -61,7 +61,7 @@ QA-Automation-Framework/
 │   ├── screenshot.png
 │   
 ├── 📂 Test Case
-│   ├── Test Case.csv
+│   ├── Test Case.xlsx
 │   
 ├── 📂 reports
 │
