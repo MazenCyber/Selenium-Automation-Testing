@@ -62,18 +62,10 @@ To verify that users can log in successfully with valid credentials and that the
 | Test Case ID | TC-LOGIN-004 |
 | Test Scenario | Verify validation when the password field is empty |
 | Preconditions | The user is on the login page |
-
 | Steps | 1. Open the target webpage using Selenium.<br>2. Locate all <img> elements on the webpage.<br>3. Retrieve each image's src attribute.<br>4. Check whether each image is loaded successfully.<br4>5. Check whether each image is loaded successfully.<br5>6. Record the source URL of each broken image. |
 | Expected Result | The system should show "Password is required." |
 | Actual Result | The system shows "Invalid email or password" instead of "Password is required." |
 | Status | Fail |
-
-1. 
-2. 
-3. 
-4. 
-5. Identify images that failed to load.
-6. 
 ---
 
 ## Test Case 5: Verify all webpage links are valid
