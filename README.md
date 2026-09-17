@@ -88,7 +88,7 @@ QA-Automation-Framework/
 
 ### Reports & Analytics
 
-![Reports & Analytics]((https://drive.google.com/file/d/14Yw0ZDS8N1dDQKqhwyUxWSjujjx6ENe-/view?usp=sharing))
+![Reports & Analytics](Report/Test-Run.png)
 
 
 
