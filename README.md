@@ -67,8 +67,6 @@ QA-Automation-Framework/
 │
 ├── 📂 screenshots
 │
-├── 📂 utils
-│
 ├── 📜 README.md
 ```
 
